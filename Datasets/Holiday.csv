@@ -1,0 +1,58 @@
+Date,Holiday,WeekDay,Month,Day,Year
+04/07/2016,4th of July,Monday,7,4,2016
+04/07/2017,4th of July,Tuesday,7,4,2017
+04/07/2018,4th of July,Wednesday,7,4,2018
+25/12/2016,Christmas Day,Sunday,12,25,2016
+25/12/2017,Christmas Day,Monday,12,25,2017
+25/12/2018,Christmas Day,Tuesday,12,25,2018
+24/12/2016,Christmas Eve,Saturday,12,24,2016
+24/12/2017,Christmas Eve,Sunday,12,24,2017
+24/12/2018,Christmas Eve,Monday,12,24,2018
+08/10/2018,Columbus Day,Monday,10,8,2018
+09/10/2017,Columbus Day,Monday,10,9,2017
+10/10/2016,Columbus Day,Monday,10,10,2016
+08/04/2018,Eastern Easter,Sunday,4,8,2018
+16/04/2017,Eastern Easter,Sunday,4,16,2017
+01/05/2016,Eastern Easter,Sunday,5,1,2016
+19/06/2016,Juneteenth,Sunday,6,19,2016
+19/06/2017,Juneteenth,Monday,6,19,2017
+19/06/2018,Juneteenth,Tuesday,6,19,2018
+03/09/2018,Labor Day,Monday,9,3,2018
+04/09/2017,Labor Day,Monday,9,4,2017
+05/09/2016,Labor Day,Monday,9,5,2016
+01/09/2018,Labor Day Weekend,Saturday,9,1,2018
+02/09/2018,Labor Day Weekend,Sunday,9,2,2018
+02/09/2017,Labor Day Weekend,Saturday,9,2,2017
+03/09/2017,Labor Day Weekend,Sunday,9,3,2017
+03/09/2016,Labor Day Weekend,Saturday,9,3,2016
+04/09/2016,Labor Day Weekend,Sunday,9,4,2016
+15/01/2018,"Martin Luther King, Jr. Day",Monday,1,15,2018
+16/01/2017,"Martin Luther King, Jr. Day",Monday,1,16,2017
+18/01/2016,"Martin Luther King, Jr. Day",Monday,1,18,2016
+28/05/2018,Memorial Day,Monday,5,28,2018
+29/05/2017,Memorial Day,Monday,5,29,2017
+30/05/2016,Memorial Day,Monday,5,30,2016
+01/01/2016,New Year's Day,Friday,1,1,2016
+01/01/2017,New Year's Day,Sunday,1,1,2017
+01/01/2018,New Year's Day,Monday,1,1,2018
+31/12/2016,New Year’s Eve,Saturday,12,31,2016
+31/12/2017,New Year’s Eve,Sunday,12,31,2017
+31/12/2018,New Year’s Eve,Monday,12,31,2018
+22/11/2018,Thanksgiving Day,Thursday,11,22,2018
+23/11/2017,Thanksgiving Day,Thursday,11,23,2017
+24/11/2016,Thanksgiving Day,Thursday,11,24,2016
+21/11/2018,Thanksgiving Eve,Wednesday,11,21,2018
+22/11/2017,Thanksgiving Eve,Wednesday,11,22,2017
+23/11/2016,Thanksgiving Eve,Wednesday,11,23,2016
+14/02/2016,Valentine’s Day,Sunday,2,14,2016
+14/02/2017,Valentine’s Day,Tuesday,2,14,2017
+14/02/2018,Valentine’s Day,Wednesday,2,14,2018
+11/11/2016,Veterans Day,Friday,11,11,2016
+11/11/2017,Veterans Day,Saturday,11,11,2017
+11/11/2018,Veterans Day,Sunday,11,11,2018
+15/02/2016,Washington's Birthday,Monday,2,15,2016
+19/02/2018,Washington's Birthday,Monday,2,19,2018
+20/02/2017,Washington's Birthday,Monday,2,20,2017
+27/03/2016,Western Easter,Sunday,3,27,2016
+01/04/2018,Western Easter,Sunday,4,1,2018
+16/04/2017,Western Easter,Sunday,4,16,2017
